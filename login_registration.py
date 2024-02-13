@@ -33,3 +33,4 @@ logout = driver.find_element_by_link_text("Logout")
 logout_get_text = logout.text
 assert 'Logout' in logout_get_text
 
+# коммент
